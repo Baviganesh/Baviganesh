@@ -37,7 +37,8 @@ Currently, I'm pursuing a course in Artificial Intelligence to further develop m
 	
 📞 Contact
 
-If you have any questions or would like to connect, feel free to reach out to me on LinkedIn.
+If you have any questions or would like to connect, feel free to reach out to me on LinkedIn[LinkedIn](https://www.linkedin.com/in/bavithra-ganesan-43660475/)
+
 
 Thanks for stopping by! I'm excited to see what the future holds for the intersection of banking and artificial intelligence.
 
