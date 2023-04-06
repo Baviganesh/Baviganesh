@@ -1,6 +1,6 @@
 
 Hi there, I'm Bavithra Ganesan👋
-![Image of AI and banking](https://example.com/image2.jpg)
+![Image of AI and banking](C:\Users\bavig\Downloadsimage2.jpg)
 
 
 Welcome to my GitHub profile! I'm a professional with experience in the banking sector, and a passion for Artificial Intelligence. 
