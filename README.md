@@ -1,5 +1,8 @@
+![Mind-Mapping](https://user-images.githubusercontent.com/114818866/230484872-803219ca-1e8f-4a1a-8f4f-144d631d6619.png)
 
 Hi there, I'm Bavithra Ganesan👋
+![image](C:\Users\bavig\Downloads\Mind-Mapping.png)
+
 
 
 
