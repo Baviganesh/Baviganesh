@@ -1,7 +1,7 @@
 ![Mind-Mapping](https://user-images.githubusercontent.com/114818866/230484872-803219ca-1e8f-4a1a-8f4f-144d631d6619.png)
 
 Hi there, I'm Bavithra Ganesan👋
-![image](C:\Users\bavig\Downloads\Mind-Mapping.png)
+![Banking Expert Turned Data Science Enthusiast - Driving Innovation and Growth in AI](C:\Users\bavig\Downloads\Mind-Mapping.png)
 
 
 
@@ -37,7 +37,7 @@ Currently, I'm pursuing a course in Artificial Intelligence to further develop m
 	
 📞 Contact
 
-If you have any questions or would like to connect, feel free to reach out to me on LinkedIn[LinkedIn](https://www.linkedin.com/in/bavithra-ganesan-43660475/)
+If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bavithra-ganesan-43660475/)
 
 
 Thanks for stopping by! I'm excited to see what the future holds for the intersection of banking and artificial intelligence.
