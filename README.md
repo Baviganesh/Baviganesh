@@ -36,5 +36,7 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 
 Thanks for stopping by!I'm excited to see what the future holds for the intersection of banking and artificial intelligence.
+![image2](https://user-images.githubusercontent.com/114818866/230478638-b52cff82-299a-40d5-a0ca-b7f7680f1bd0.jpg)
+--!>
 
 
