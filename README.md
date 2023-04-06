@@ -1,6 +1,6 @@
 
 Hi there, I'm Bavithra Ganesan👋
-!(https://www.bing.com/images/search?view=detailV2&ccid=fSEGoT2C&id=5AE5EF17458394200A10CA8418944E2F30C9505C&thid=OIP.fSEGoT2CY45b0khN0u2lVwHaEc&mediaurl=https%3A%2F%2Fldsmag.com%2Fwp-content%2Fuploads%2F2017%2F10%2FBrain.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7d2106a13d82638e5bd2484dd2eda557%3Frik%3DXFDJMC9OlBiEyg%26pid%3DImgRaw%26r%3D0&exph=960&expw=1600&q=Brain+and+Artificial+Intelligence&simid=608030377315825506&form=IRPRST&ck=8A869A512D5451A70374133D51CD09F2&selectedindex=54&ajaxhist=0&ajaxserp=0&vt=0&sim=11.jpg)
+![Image of AI and banking](https://www.bing.com/images/search?view=detailV2&ccid=fSEGoT2C&id=5AE5EF17458394200A10CA8418944E2F30C9505C&thid=OIP.fSEGoT2CY45b0khN0u2lVwHaEc&mediaurl=https%3A%2F%2Fldsmag.com%2Fwp-content%2Fuploads%2F2017%2F10%2FBrain.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7d2106a13d82638e5bd2484dd2eda557%3Frik%3DXFDJMC9OlBiEyg%26pid%3DImgRaw%26r%3D0&exph=960&expw=1600&q=Brain+and+Artificial+Intelligence&simid=608030377315825506&form=IRPRST&ck=8A869A512D5451A70374133D51CD09F2&selectedindex=54&ajaxhist=0&ajaxserp=0&vt=0&sim=11.jpg)
 
 
 Welcome to my GitHub profile! I'm a professional with experience in the banking sector, and a passion for Artificial Intelligence.
