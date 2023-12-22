@@ -1,7 +1,7 @@
 ![Mind-Mapping](https://user-images.githubusercontent.com/114818866/230484872-803219ca-1e8f-4a1a-8f4f-144d631d6619.png)
 
 Hi there, I'm Bavithra Ganesan👋
-![Banking Expert Turned Data Science Enthusiast - Driving Innovation and Growth in AI](C:\Users\bavig\Downloads\Mind-Mapping.png)
+![AI Analyst & IT Professional | Banking Industry Expert | Business Development Associate |Seeking Roles in Analytics, Administration and Customer Support Roles](C:\Users\bavig\Downloads\Mind-Mapping.png)
 
 
 
